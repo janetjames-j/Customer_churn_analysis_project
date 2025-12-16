@@ -77,7 +77,7 @@ Each row represents a unique customer.
 **Janet James**  
     Aspiring Data Analyst  
     GitHub: https://github.com/janetjames-j
-    project repository:
+    project repository:https://github.com/janetjames-j/Customer-churn-analysis.git
 
 ---
 
